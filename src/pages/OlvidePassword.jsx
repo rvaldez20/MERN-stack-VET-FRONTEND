@@ -1,9 +1,10 @@
 
 const olvidePassword = () => {
    return (
-     <>
-       <h1>Desde olvidePassword</h1>
-     </>
+    <>      
+      <div>one</div>
+      <div>two</div>
+    </>
    )
  }
  
